@@ -1,4 +1,6 @@
 # British Birds Range Change
+<img align="right" src="wren.png" alt="British birds" width="200" style="margin-top: 20px">
+
 Predictors of contraction and expansion of area of occupancy for British birds
 
 Accompanies paper:
