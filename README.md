@@ -14,5 +14,6 @@ agricultural abandonment since the 1970s. After accounting statistically for the
 # R files
 - <code>birdRangeChange_phylo.r</code>
 - <code>BirdRangeChangePredictors_revised.r</code>: ecological correlates of range change
+- <code>BirdRangeChangePredictors.SEK_clim.r</code>
 
 # Data files
