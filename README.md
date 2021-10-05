@@ -12,8 +12,9 @@ Geographical range dynamics are driven by the joint effects of abiotic factors, 
 agricultural abandonment since the 1970s. After accounting statistically for the complexity and nonlinearity of the data, our results demonstrate two key aspects of changing area of occupancy for British birds: (<em>i</em>) climate is the dominant driver of change, but direction of effect depends on geographical context, and (<em>ii</em>) all of our predictors generally had a similar effect regardless of the direction of the change (contraction versus expansion). Although we caution applying results from Britain’s highly modified and well-studied bird community to other biogeographic regions, our results do indicate that a species’ propensity to change area of occupancy over decadal scales can be explained partially by a combination of simple allometric predictors of life-history pace, average climate conditions and geographical context.
 
 # R files
-- <code>birdRangeChange_phylo.r</code>
+- <code>birdRangeChange_phylo.r</code>: phylogenetic general least-squares models
 - <code>BirdRangeChangePredictors_revised.r</code>: ecological correlates of range change
-- <code>BirdRangeChangePredictors.SEK_clim.r</code>
+- <code>BirdRangeChangePredictors.SEK_clim.r</code>: ecological correlates of range change
 
 # Data files
+pglsData.txt
